@@ -357,8 +357,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of Serial port utility   :
  
- <img width="1919" height="1079" alt="636642351-16d1fd53-9132-4dd9-a371-33296688103f" src="https://github.com/user-attachments/assets/4e7a0659-b88b-4227-b739-2f5d7953ad2f" />
- 
+
+<img width="1672" height="941" alt="93125f34-462b-4e3c-99d9-c3d4d110f172" src="https://github.com/user-attachments/assets/7ad3c1f6-d1e5-4f74-bdf8-fabd3ca5e089" />
+
  
 ## Result :
 The IoT development board was successfully interfaced, and the USART was configured to transmit strings. The transmitted data was verified using a serial monitor, confirming proper communication.
